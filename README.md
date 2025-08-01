@@ -13,14 +13,14 @@ I love tackling real-world problems in medicine and science through data analysi
 
 ### 📈 Predicting Next Year’s World Happiness  
 Built a time-aware MLP regression model to forecast a country’s happiness score based on trends in socioeconomic features
-> **Tech Used:** Python, pandas, scikit-learn, matplotlib, tensorflow
-> **Learnings** Lag shifting and group-wise calculations
+> - **Tech Used:** Python, pandas, scikit-learn, matplotlib, tensorflow
+> - **Learnings** Lag shifting and group-wise calculations
 🔗 [View Project Repository](https://github.com/Mahoutsuka/World-Happiness-Prediction/blob/main/README.md)
 
 ### 🌍 World Heritage Explorer
 An interactive data visualization tool for exploring UNESCO World Heritage Sites on a rotatable 2D globe. 
-> **Tech Used:** Java
-> **Learnings** Represent a 3D globe in 2D using map projections
+> - **Tech Used:** Java
+> - **Learnings** Represent a 3D globe in 2D using map projections
 🔗 [View Project Repository](https://github.com/mahmadirfan/World-Heritage-Sites/blob/main/README.md)
 
 ## 📬 Contact Me
